@@ -4,10 +4,4 @@ out
 build
 dist
 *.md
-package-lock.jsonnode_modules
-.next
-out
-build
-dist
-*.md
 package-lock.json
